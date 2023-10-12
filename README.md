@@ -3,5 +3,5 @@ This program checks to ensure that a user enters a strong password. It uses the 
 Alphabets: 7 characters (one capital letter and six lower letters)<br>
 - Digits: 2
 - Special character: 1 (!, @, #, $, %, ^, &, * )
-- Spaces:0
+- Spaces: 0
 - The total length of a normal password should be 10.
